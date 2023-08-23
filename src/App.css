@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.rbc-toolbar button.rbc-active,
+.rbc-toolbar button:hover,
+.rbc-today {
+  background-color: #89bbe2;
+}
+
+.rbc-toolbar button {
+  color: #fff;
+}
